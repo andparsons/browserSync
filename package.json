@@ -1,0 +1,27 @@
+{
+  "name": "WebApp",
+  "version": "0.1.0",
+  "description": "Bootstrap setup",
+  "main": "app/index.html",
+  "author": "andparsons",
+  "license": "MIT",
+  "dependencies": {},
+  "devDependencies": {
+    "autoprefixer": "^6.5.3",
+    "browser-sync": "^2.18.2",
+    "bs-html-injector": "^3.0.3",
+    "cssnano": "^3.8.1",
+    "google-closure-compiler-js": "^20161024.0.0",
+    "gulp": "^3.9.1",
+    "gulp-cli": "^1.2.2",
+    "gulp-postcss": "^6.2.0",
+    "gulp-rename": "^1.2.2",
+    "gulp-sass": "^2.3.2",
+    "gulp-sourcemaps": "^1.9.1",
+    "gulp-task-listing": "^1.0.1",
+    "postcss": "^5.2.6",
+    "postcss-cssnext": "^2.9.0",
+    "postcss-scss": "^0.4.0",
+    "stylelint": "^7.6.0"
+  }
+}
